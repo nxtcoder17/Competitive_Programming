@@ -18,6 +18,6 @@ On the whole, this repo is sub-divided in 3 major sections:
 + [TopCoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 
 ### Useful Links/References
-+ [Codeforces: Awesome List for Competitive Programming](https://codeforces.com/blog/entry/23054)
-+ [Codeforces: **Harta**-Dynamic Programming Types](https://codeforces.com/blog/entry/325)
-+ [Codeforces: **aj95**-Programming Tutotial And Guide Blogs for Beginners](https://codeforces.com/blog/entry/47822)
++ **Codeforces**: [Awesome List for Competitive Programming](https://codeforces.com/blog/entry/23054)
++ **Codeforces**: [**Harta**-Dynamic Programming Types](https://codeforces.com/blog/entry/325)
++ **Codeforces**: [**aj95**-Programming Tutotial And Guide Blogs for Beginners](https://codeforces.com/blog/entry/47822)
