@@ -1,5 +1,5 @@
-# All the stuffs i do to improve my Competitive Programming skills
-
+# Competitive Programming
+***
 On the whole, this repo is sub-divided in 3 major sections:
 + **Competitions**
     - This directory contains Codes during competitions, and after it (upsolved)
@@ -10,5 +10,9 @@ On the whole, this repo is sub-divided in 3 major sections:
     - Codes while learning new stuffs
 
 # Resources
+***
 ### Video Tutorials
 + Tushar Roy: [Youtube](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+
+### Useful Links/References
++ [Codeforces: Awesome List for Competitive Programming](https://codeforces.com/blog/entry/23054)
