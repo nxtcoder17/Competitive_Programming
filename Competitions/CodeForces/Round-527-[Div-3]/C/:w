@@ -1,0 +1,9 @@
+n = int(input())
+d = {}
+ma = None, mi = None
+for i in range(2*n-2):
+    s = input()
+    d[s] = False;
+
+
+
