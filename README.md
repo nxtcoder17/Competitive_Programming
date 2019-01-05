@@ -9,6 +9,9 @@ On the whole, this repo is sub-divided in 3 major sections:
     - Codes while learning new stuffs
 
 # Resources
+### Books (available in STUDY sub-section)
++ Algorithms, 3rd Edition (Cormen)
+
 ### Video Tutorials
 + Tushar Roy: [Youtube](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
