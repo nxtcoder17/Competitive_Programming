@@ -11,4 +11,4 @@ On the whole, this repo is sub-divided in 3 major sections:
 
 # Resources
 ### Video Tutorials
-    - Tushar Roy: [Youtube](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
++ Tushar Roy: [Youtube](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
